@@ -1,0 +1,4 @@
+User Name [userPrincipalName] Required,First Name,Last Name,Display Name [displayName] Required,Job Title,Department,Office Number,Office Phone,Mobile Phone,Fax,Address,City,State or Province,ZIP or Postal Code,Country or Region
+hr.staff@securestratos.onmicrosoft.com,HR,Staff,HR Staff,Standard User,HR,,,,,,,,,
+finance.staff@securestratos.onmicrosoft.com,Finance,Staff,Finance Staff,Standard User,Finance,,,,,,,,,
+sales.staff@securestratos.onmicrosoft.com,Sales,Staff,Sales Staff,Standard User,Sales,,,,,,,,,
