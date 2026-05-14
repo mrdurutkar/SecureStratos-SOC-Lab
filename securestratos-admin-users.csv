@@ -1,0 +1,8 @@
+User Name [userPrincipalName] Required,First Name,Last Name,Display Name [displayName] Required,Job Title,Department,Office Number,Office Phone,Mobile Phone,Fax,Address,City,State or Province,ZIP or Postal Code,Country or Region
+it.admin@securestratos.onmicrosoft.com,IT,Admin,IT Admin,Global Admin,IT,,,,,,,,,
+intune.admin@securestratos.onmicrosoft.com,Intune,Admin,Intune Admin,Intune Administrator,IT,,,,,,,,,
+secops.admin@securestratos.onmicrosoft.com,SecOps,Admin,SecOps Admin,Sentinel Analyst,SOC,,,,,,,,,
+helpdesk.user@securestratos.onmicrosoft.com,Helpdesk,User,Helpdesk User,Helpdesk Administrator,IT,,,,,,,,,
+hr.manager@securestratos.onmicrosoft.com,HR,Manager,HR Manager,HR Manager,HR,,,,,,,,,
+finance.manager@securestratos.onmicrosoft.com,Finance,Manager,Finance Manager,Finance Lead,Finance,,,,,,,,,
+sales.manager@securestratos.onmicrosoft.com,Sales,Manager,Sales Manager,Sales Manager,Sales,,,,,,,,,
